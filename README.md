@@ -1,0 +1,1 @@
+This project is going to utilize basic HTML principles to help understand the foundations of webpage design. I am going into this with close to zero HTML experience, so I'm hoping to learn something in the end!
